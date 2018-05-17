@@ -11,7 +11,7 @@ from the root of the project:
     npm i
     npm run start
 
-Then, navigate your browser of choice. Since this project uses ES6 modules, your browser may not be able to run the project; 
+Then, navigate to localhost:3000 using your browser of choice. Since this project uses ES6 modules, your browser may not be able to run the project; 
 if this is the case, you may be able to run it by going to your browser configuration and ennabling ES6 modules. 
 However, the current versions of all major desktop browsers, excluding Internet Explorer, should support 
 ES6 modules by default.
