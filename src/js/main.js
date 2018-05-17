@@ -14,6 +14,7 @@ const config = {
       debug: false
     }
   },
+  parent: "#canvas",
   scene: {
     preload: preload,
     create: create,
