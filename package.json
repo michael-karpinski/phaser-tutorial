@@ -1,14 +1,13 @@
 {
   "name": "tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "Phaser first game tutorial using ES6 modules",
   "main": "phaser.min.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Michael Karpinski",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3"
