@@ -9,4 +9,4 @@ Ensure that you have Node.js/npm installed. Then, install Express and run the pr
     npm i
     npm run start
 
-Then, navigate to [localhost:3000](http://localhost:3000) using your browser of choice. Since this project uses ES6 modules, your browser may not be able to run the project; if this is the case, you may be able to run it by going to your browser configuration and ennabling ES6 modules. However, the current versions of all major desktop browsers, excluding Internet Explorer, should support ES6 modules by default.
+Then, navigate to [localhost:3000](http://localhost:3000) using your browser of choice. Since this project uses ES6 modules, your browser may not be able to run the project; if this is the case, you may be able to run it by going to your browser configuration and enabling ES6 modules. However, the current versions of all major desktop browsers, excluding Internet Explorer, should support ES6 modules by default.
